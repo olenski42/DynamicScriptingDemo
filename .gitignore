@@ -1,0 +1,5 @@
+.vscode/
+src/base/.vscode/
+src/base/build/
+src/script/.vscode
+src/script/build/
