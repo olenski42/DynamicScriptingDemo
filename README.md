@@ -36,6 +36,10 @@ cmake .. && make
 ```
 - run the MyScript::OnUpdate function with 'a'
 - edit the MyScript::OnUpdate function in src/script/MyScript.hpp
+- compile the script (from src/script/build/)
+```command
+cmake .. && make
+```
 - reload the script with 'r'
 - rerun the OnUpdate function with 'a'
 - quit with 'q'
